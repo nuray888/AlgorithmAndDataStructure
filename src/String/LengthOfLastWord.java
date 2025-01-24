@@ -12,5 +12,6 @@ public class LengthOfLastWord {
             count++;
         }
         return count;
+        //* Space complexity and Time complexity O(n)
     }
 }
