@@ -10,9 +10,10 @@ public class DeleteNodeLinkedList {
         //*  3>9->9->1->4
         //! after we say this node's next equal to node's next next
         //* 3->9->1->4
-
-
         node.val = node.next.val;
         node.next = node.next.next;
+
+        //!Space complexity O(1)
+        //!Time Complexity O(1)
     }
 }

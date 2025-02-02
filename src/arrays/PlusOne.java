@@ -1,4 +1,4 @@
-package Arrays;
+package arrays;
 public class PlusOne {
     public int[] plusOne(int[] digits) {
         //* Case #1: The last digit is not 9. [4,5,6] Then we increment the last digit then return it
