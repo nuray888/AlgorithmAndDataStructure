@@ -1,5 +1,7 @@
 package linkedlist;
 
+
+
 public class DeleteNodeLinkedList {
     public void deleteNode(ListNode node) {
         if (node == null || node.next == null) return;
