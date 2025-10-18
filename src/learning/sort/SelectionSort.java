@@ -1,7 +1,8 @@
 package learning.sort;
 
 import java.util.Arrays;
-
+//! Maksimum eded secib onu en sona atiriq. Daha sonrasinda maksimum tapilanda en sonuncu yeri nezere almiriq bir evvelkini
+//! nezere aliriq bu sekilde devam edir best case O(n^2)  worst case O(n^2)
 public class SelectionSort {
     public static void main(String[] args) {
         int[] arr={10,12,4,7,2};
